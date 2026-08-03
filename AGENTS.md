@@ -42,5 +42,5 @@ for enums (`engine`, `mode`, permission levels, pause status), mixins
 in `common/`, fixtures for every schema. Preserve the reference doc's
 "Added in Databricks CLI version X" annotations in docstrings.
 
-Shared enkinex workflow/git rules: `~/.config/opencode/AGENTS.md`
-(installed from enkinex-aiops).
+Shared enkinex workflow/git rules: [.opencode/shared/AGENTS.md](.opencode/shared/AGENTS.md)
+(synced from enkinex-aiops per ADR-0005 — do not edit here).
