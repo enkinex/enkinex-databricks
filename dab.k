@@ -18,4 +18,3 @@ schema Bundle:
         Examples: "hello-bundle"
     """
     name: str
-

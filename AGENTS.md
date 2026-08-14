@@ -15,7 +15,7 @@ ladder (T0–T8) in enkinex-aiops
 |---|---|
 | `dab.k` | Root `Bundle` schema (scaffold) — will compose one module per bundle top-level key |
 | `test/*.yaml` | `kcl vet` fixtures validated against the schemas |
-| `kcl.mod` | Package `enkinex-databricks`, edition 0.12.7 |
+| `kcl.mod` | Package `enkinex-databricks`, edition 0.12.8 |
 
 Planned modules (benchmark tasks T1–T3): `bundle`, `workspace`,
 `artifact`, `resources/` (29 types; jobs/pipelines/clusters/schemas/
