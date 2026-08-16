@@ -4,8 +4,8 @@ A modular KCL implementation of the Databricks Asset Bundles
 configuration surface, built to author, type-check, and validate
 bundle definitions as Governance-as-Code.
 
-This is the T0 scaffold root schema. Modules land per
-`plan/opencode/benchmark-enkinex-databricks.md` (tasks T1–T3).
+This is the T0 scaffold root schema; modules for the rest of the bundle
+surface land one per concern.
 """
 
 schema Bundle:

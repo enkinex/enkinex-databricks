@@ -4,10 +4,9 @@ KCL library implementing the **Databricks Asset Bundles** configuration
 surface as Governance-as-Code — the sibling of enkinex-odcs /
 enkinex-odps for platform deployment. Currently a **v0.1.0 scaffold**.
 
-This repo is the **benchmark vehicle of the enkinex opencode
-migration**: it is built end-to-end by the agentic loop per the task
-ladder (T0–T8) in enkinex-aiops
-[`plan/opencode/benchmark-enkinex-databricks.md`](https://github.com/enkinex/enkinex-aiops/blob/main/plan/opencode/benchmark-enkinex-databricks.md).
+The library ships the T0 scaffold — the `dab.k` root schema and a minimal
+fixture. Modules for the full bundle surface land one per concern, as the
+rest of the org's KCL libraries are built.
 
 ## Repo map
 
