@@ -8,12 +8,9 @@
 ---
 
 > [!IMPORTANT]
-> **Scaffold status (v0.1.0).** This repository is the benchmark
-> vehicle of the enkinex opencode migration
-> ([`plan/opencode/benchmark-enkinex-databricks.md`](https://github.com/enkinex/enkinex-aiops/tree/main/plan/opencode)).
-> The library currently ships the T0 scaffold (`dab.k` root schema +
-> minimal fixture). Modules for the full bundle surface land per the
-> benchmark task ladder (T1–T3): `bundle`, `workspace`, `artifacts`,
+> **Scaffold status (v0.1.0).** The library currently ships the T0
+> scaffold (`dab.k` root schema + minimal fixture). Modules for the full
+> bundle surface land one per concern: `bundle`, `workspace`, `artifacts`,
 > `resources` (29 types), `targets`, `variables`, `presets`,
 > `permissions`, `sync`, `python`, `experimental`.
 
